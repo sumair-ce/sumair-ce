@@ -1,4 +1,4 @@
-[!logo](https://github.com/sumair-ce/sumair-ce/blob/main/MUHAMMAD%20SUMAIR.png)
+![logo](https://github.com/sumair-ce/sumair-ce/blob/main/MUHAMMAD%20SUMAIR.png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Sumair</h1>
 <h3 align="center">A passionate Computer Engineer from Pakistan</h3>
