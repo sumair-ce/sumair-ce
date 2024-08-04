@@ -40,5 +40,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumair-ce&show_icons=true&locale=en&layout=compact&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=0d1117&icon_color=79fe96" alt="sumair-ce" style="margin-bottom: 20px;" />
 <img src="https://github-readme-stats.vercel.app/api?username=sumair-ce&show_icons=true&locale=en&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=0d1117&icon_color=79fe96" alt="sumair-ce" style="margin-bottom: 20px;" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumair-ce&theme=dark&background=0d1117&border=ffffff&stroke=79fe96&ring=79fe96&fire=79fe96&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=79fe96&sideLabels=ffffff&dates=ffffff" alt="sumair-ce" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumair-ce&theme=dark&background=0d1117&border=ffffff&stroke=ffa500&ring=ffa500&fire=ffa500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffa500&sideLabels=ffffff&dates=ffffff" alt="sumair-ce" />
+
 
