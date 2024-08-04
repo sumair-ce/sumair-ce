@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Muhammad Sumair</h1>
-<h3 align="center">A passionate Computer Engineer from Pakistan</h3>
+<h1 align="left">Hi, I'm Muhammad Sumair</h1>
+<h3 align="left">A passionate Computer Engineer from Pakistan</h3>
 
-<p align="center">I’m currently learning at <strong>National University of Sciences and Technology (NUST), Islamabad</strong></p>
+<p align="left">I’m currently learning at <strong>National University of Sciences and Technology (NUST), Islamabad</strong></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
