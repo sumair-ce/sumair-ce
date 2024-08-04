@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Muhammad Sumair</h3>
+<h1 align="left">Hi, I'm Muhammad Sumair</h1>
 <p align="left">Currently: Computer Engineering student at <strong>National University of Sciences and Technology (NUST) Islamabad, Pakistan</strong></p> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
