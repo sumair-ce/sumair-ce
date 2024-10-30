@@ -5,14 +5,14 @@ Islamabad, Pakistan
 ---
 
 ## About Me
-I'm a passionate Computer Engineering student at [NUST](https://nust.edu.pk/), currently immersed in designing and developing technology solutions. My focus is on bridging hardware and software through diverse projects, and I'm constantly exploring innovations that drive the future of embedded systems, processors, and software applications.
+I'm a passionate Computer Engineering student at [NUST](https://nust.edu.pk/), currently immersed in designing and developing technology solutions. My focus is on bridging hardware and software through different projects, and I'm currently interested to grow with the future of embedded systems, processors, and software applications.
 
 ---
 
 ## Skills & Technologies
 
 ### Languages
-- **C++** | Object-oriented programming and algorithmic design
+- **C++** | Data Structures and Object-oriented programming
 - **Java** | Application development and data structures
 - **Python** | Scripting, data analysis, and automation
 - **Verilog** | Digital design and FPGA programming
