@@ -5,7 +5,7 @@ Islamabad, Pakistan
 ---
 
 ## About Me
-I'm a passionate Computer Engineering student at [NUST](https://nust.edu.pk/), currently immersed in designing and developing technology solutions. My focus is on bridging hardware and software through different projects, and I'm currently interested to grow with the future of embedded systems, processors, and software applications.
+I'm a Computer Engineering student at [NUST](https://nust.edu.pk/), currently exploring tech. My focus is on bridging hardware and software through different projects, and I'm currently interested in embedded systems, processors, and software applications.
 
 ---
 
